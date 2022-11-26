@@ -4,7 +4,7 @@
 %
 %    If this code is used in a publication, please cite the manuscript:
 %    "A Quantitative Method to Determine Optimal Number of CCEP Stimulation Trials"
-%    by R Colbur, H Huang, NM Gregg, BH Brinkmann, BN Lundstrom, GA Worrell,
+%    by R Colburn, H Huang, NM Gregg, BH Brinkmann, BN Lundstrom, GA Worrell,
 %    G Ojeda Valencia, D Hermes, and KJ Miller.
 %
 %    Copyright (C) 2022  Ryan Colburn
